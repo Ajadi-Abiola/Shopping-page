@@ -1,0 +1,94 @@
+.nav-item{
+    color: white;
+}
+.dropdown{
+    float: right;
+}
+.navitem{
+    display: inline;
+    list-style: none;
+    color:grey;
+    text-decoration: none;
+    padding: 10px;
+    
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10%;
+    position: sticky;
+}
+nav{
+    position: sticky;
+}
+.mr-10{
+    padding: 20px 10%;
+
+}
+.mid-01{
+    text-align: center;
+    align-items: center;
+    padding-bottom: 25%;
+}
+button{
+    background-color: gray;
+    
+}
+.hd-01{
+    text-align: center;
+    align-items: center;
+    padding: 25%;
+}
+.bd-01{
+    font-size: 20px;
+}
+.feature{
+    
+    padding: 50px 10%;
+
+
+}
+
+
+
+.bt20{
+    justify-content: flex-end;
+    display: flex;
+    background-color: lightgray;
+    
+   
+}
+.newpost ,.bt20{
+  
+  flex-direction: column;
+
+  display: flex;
+  height: 300px;
+
+}
+.headingtwo{
+    position: absolute;
+}
+.heading3{
+    
+    
+    justify-content: center;
+    text-align: center;
+}
+.loadbt{
+    margin: 40px auto;
+    display: block;
+}
+.activity{
+    list-style: none;
+    display: inline;
+    padding:10px;
+}
+.footer{
+    text-align: center;
+   justify-items: center;
+   padding: 0 10%;
+   padding-bottom: 20px;
+}
